@@ -8,6 +8,7 @@ $hatchbacks = array(
     );
 
 // friends who own the above cars
+
 $friends = array("Vinod", "Javed", "Navjot", "Samuel");
 
 // let's merge the two arrays into one
